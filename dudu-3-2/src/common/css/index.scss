@@ -1,0 +1,51 @@
+html{
+  font-family:'Helvetica Neue',Tahoma,Arial,PingFangSC-Regular,'Hiragino Sans GB','Microsoft Yahei',sans-serif;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing: antialiased;
+  -webkit-text-size-adjust:100%;
+  text-size-adjust:none;
+  color:#333;
+  -webit-uesr-select:none;
+  uesr-select:none;
+  font-size:13.3333vw;
+}
+*{
+  margin:0;
+  padding:0;
+  -webkit-box-sizing:border-box;
+  box-sizing:border-box;
+}
+a{
+  text-decoration:none;
+}
+img{
+  vertical-align:top;
+}
+
+ul{
+  margin:0;
+  padding:0;
+}
+li{
+  margin:0;
+  padding:0;
+  list-style:none;
+}
+.app{
+  height:3000px;
+  //max-width: 750px;
+}
+.active{
+  color:#ff6700 !important;
+}
+//.container{
+//  position: relative;
+//    margin: 0 auto;
+//    width: 100vw;
+//    height: 100vh;
+//    max-width: 640px;
+//    overflow: hidden;
+//    background-color: #fff;
+//    min-width: 380px;
+//    min-height: 660px;
+//}
